@@ -10,3 +10,6 @@ The data used is loaded from a CSV file and converted into Player and Team objec
 
 Tools we are using:
 Python and a CSV file.
+
+How to run the program:
+By running the skeleton_main file.

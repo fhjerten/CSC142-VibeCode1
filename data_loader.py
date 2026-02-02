@@ -41,8 +41,6 @@ def load_teams_from_csv(filename):
             if key not in teams:
                 teams[key] = Team(team_name, gender)
 
-            teams[key] = Team(team_name, gender)
-
             teams[key].add_player(player)
 
     return teams
